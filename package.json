@@ -1,0 +1,23 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "Day2",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "static-server public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pende88/helloWorld.git"
+  },
+  "author": "Ivan Pende",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pende88/helloWorld/issues"
+  },
+  "homepage": "https://github.com/pende88/helloWorld#readme",
+  "dependencies": {}
+}
